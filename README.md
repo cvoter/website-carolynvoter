@@ -1,1 +1,1 @@
-# website-carolynvoter
+Simple index.html file that redirects visitors to [carolynvoter.com](https://carolynvoter.com) to [waterecosystemsandpeople.com](https://waterecosystemsandpeople.com), which is what I am currently using as my main domain. See the [website-research-group](https://github.com/cvoter/website-research-group) repository for the content of my actual website.
